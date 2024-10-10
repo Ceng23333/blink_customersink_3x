@@ -1,4 +1,4 @@
 /.idea
 *.iml
 /.idea/
-/lib/lakesoul-io-java-2.6.0-1-shaded.jar
+/target/
